@@ -55,4 +55,4 @@ Thumbs.db
 .coverage
 htmlcov/
 .pytest_cache/
-.tox/ 
+.tox/ node_modules/
